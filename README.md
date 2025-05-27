@@ -13,9 +13,9 @@ Insights and recommendations are provided on the following key areas:
 - **Volume-Quality Relationships:** Analysis of case volume adequacy for reliable quality measurement
 - **Targeted Improvement Opportunities:** Identification of specific hospitals and regions requiring intervention
 
-**Interactive Dashboard:** [Link to Tableau Public dashboard]
+**Interactive Dashboard:** [Link to Interactive Dashboard](https://public.tableau.com/shared/QG28JXN2H?:display_count=n&:origin=viz_share_link) - View in Fullscreen Mode
 
-**Technical Documentation:** [Link to data preparation methodology]
+**Technical Documentation:** [Link to data preparation methodology] 
 
 
 ### Data Structure & Initial Checks
