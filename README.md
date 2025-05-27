@@ -32,6 +32,14 @@ Performance is measured through 30-day mortality and readmission rates, with hos
 
 Prior to analysis, comprehensive data quality checks were conducted to ensure accuracy and completeness of the performance categorizations.
 
+This dataset consists of **one table** with **columns**: Hospital Name, City, State, ZIP Code,	Measure Name,	Measure ID,	National Average Comparison,	Score,	Lower Estimate,	Higher Estimate,	Measure Start Date, and	Measure End Date. It contains a total of 52,985 **records**.
+
+
+<img width="1345" alt="Screenshot 2025-05-27 at 1 57 04 PM" src="https://github.com/user-attachments/assets/25b460fb-2c10-484d-961f-59d50525076d" />
+
+
+
+
 
 ## Overview of Findings
 
