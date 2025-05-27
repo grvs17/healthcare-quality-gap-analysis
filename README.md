@@ -17,6 +17,8 @@ Insights and recommendations are provided on the following key areas:
 
 **Technical Documentation:** [Link to SQL queries used for database preparation](Data-Preparation-Methodology)
 
+**Dataset Used:** https://www.kaggle.com/datasets/thedevastator/us-healthcare-readmissions-and-mortality
+
 
 ### Data Structure & Initial Checks
 
