@@ -43,15 +43,22 @@ Key findings indicate potential for substantial healthcare system optimization t
 
 
 ## Healthcare System Performance Distribution
-
+<img width="993" alt="Screenshot 2025-05-27 at 12 09 18 PM" src="https://github.com/user-attachments/assets/e8537e3d-a2a0-4347-a3ea-4127dfb07a75" />
 - **Quality Measurement Gap:** 21.14% of hospitals nationwide have insufficient case volumes for reliable performance assessment, indicating potential structural inefficiencies in care delivery
 - **Performance Standards:** 74.29% of hospitals meet national standards, with only 2.55% performing below benchmarks and 2.03% exceeding them
 - **Geographic Disparities:** Eastern Midwest United States shows highest concentration of low-volume hospitals, suggesting regional healthcare infrastructure challenges
+<img width="620" alt="Screenshot 2025-05-27 at 12 13 06 PM" src="https://github.com/user-attachments/assets/3354cdf1-cfa6-4c3a-a985-352b77c2c06f" />
+
 
 ### Regional Performance Patterns
 
 - **Volume Clustering:** Hospitals with inadequate case volumes concentrate in specific geographic regions, indicating opportunities for care consolidation or specialized referral networks
+<img width="620" alt="Screenshot 2025-05-27 at 12 13 06 PM" src="https://github.com/user-attachments/assets/3354cdf1-cfa6-4c3a-a985-352b77c2c06f" />
+
 - **Quality Variations:** Certain conditions like pneumonia show regional performance clustering, with 5% of hospitals underperforming specifically on pneumonia-related metrics
+<img width="624" alt="Screenshot 2025-05-27 at 12 15 06 PM" src="https://github.com/user-attachments/assets/7bfe0c88-64b5-4f1a-afa4-9cf74c806e4f" />
+
+
 - **Infrastructure Implications:** The geographic distribution suggests systematic rather than random factors driving performance variations
 
 ### Volume-Quality Relationships
