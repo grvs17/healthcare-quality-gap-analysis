@@ -1,4 +1,4 @@
-# Healthcare Performance Analysis Dashboard
+# Healthcare Quality Gap Analysis Dashboard
 
 ## Project Background
 
@@ -41,7 +41,7 @@ This dataset consists of **one table** with **columns**: Hospital Name, City, St
 
 
 
-## Overview of Findings
+## Key Takeaways
 
 The analysis reveals significant systemic inefficiencies in U.S. healthcare delivery. While most hospitals (74.29%) perform at national standards, **21.14% of hospitals lack sufficient case volumes for reliable quality measurement** - representing a critical gap in healthcare infrastructure.
 
