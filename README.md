@@ -15,7 +15,7 @@ Insights and recommendations are provided on the following key areas:
 
 **Interactive Dashboard:** [Link to Interactive Dashboard](https://public.tableau.com/shared/QG28JXN2H?:display_count=n&:origin=viz_share_link) - View in Fullscreen Mode
 
-**Technical Documentation:** [Link to data preparation methodology] 
+**Technical Documentation:** [Link to SQL queries used for database preparation](Data-Preparation-Methodology)
 
 
 ### Data Structure & Initial Checks
