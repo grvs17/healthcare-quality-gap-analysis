@@ -96,7 +96,8 @@ Based on the analysis, the following strategic recommendations are provided:
 
 ## Caveats and Assumptions
 
-- Analysis based on CMS-reported data; private pay and uninsured cases may not be fully represented
+- Outdated information, the dataset only reflects from July 2012 to June 2015 
+- Analysis based on CMS-reported data; private pay and uninsured cases are not represented
 - Performance categories reflect statistical comparisons to national averages rather than absolute quality thresholds  
 - Geographic analysis limited to state-level aggregation; local market dynamics may vary significantly within states
 - Volume thresholds for "too few cases" determination follow CMS methodology but may not reflect optimal clinical volumes
