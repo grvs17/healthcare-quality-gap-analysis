@@ -44,9 +44,11 @@ Key findings indicate potential for substantial healthcare system optimization t
 
 ## Healthcare System Performance Distribution
 <img width="993" alt="Screenshot 2025-05-27 at 12 09 18 PM" src="https://github.com/user-attachments/assets/e8537e3d-a2a0-4347-a3ea-4127dfb07a75" />
+
 - **Quality Measurement Gap:** 21.14% of hospitals nationwide have insufficient case volumes for reliable performance assessment, indicating potential structural inefficiencies in care delivery
 - **Performance Standards:** 74.29% of hospitals meet national standards, with only 2.55% performing below benchmarks and 2.03% exceeding them
 - **Geographic Disparities:** Eastern Midwest United States shows highest concentration of low-volume hospitals, suggesting regional healthcare infrastructure challenges
+  
 <img width="620" alt="Screenshot 2025-05-27 at 12 13 06 PM" src="https://github.com/user-attachments/assets/3354cdf1-cfa6-4c3a-a985-352b77c2c06f" />
 
 
