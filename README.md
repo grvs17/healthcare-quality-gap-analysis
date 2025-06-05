@@ -15,7 +15,7 @@ Insights and recommendations are provided on the following key areas:
 
 **Interactive Dashboard:** [Link to Interactive Dashboard](https://public.tableau.com/shared/QG28JXN2H?:display_count=n&:origin=viz_share_link) - View in Fullscreen Mode
 
-**Technical Documentation:** [Link to SQL queries used for database preparation](Data-Preparation-Methodology)
+**Technical Documentation:** [Link to SQL queries used for database preparation]([Link to SQL queries used for database preparation](Data-Preparation-Methodology.md)
 
 **Dataset Used:** [US Healthcare Readmissions and Mortality](https://www.kaggle.com/datasets/thedevastator/us-healthcare-readmissions-and-mortality)
 
