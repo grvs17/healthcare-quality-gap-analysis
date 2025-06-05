@@ -19,6 +19,9 @@ Insights and recommendations are provided on the following key areas:
 
 **Dataset Used:** [US Healthcare Readmissions and Mortality](https://www.kaggle.com/datasets/thedevastator/us-healthcare-readmissions-and-mortality)
 
+**Tools Used:** Excel, SQL, Tableau, GitHub, RMarkdown
+
+
 
 ### Data Structure & Initial Checks
 
